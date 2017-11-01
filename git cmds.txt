@@ -1,0 +1,18 @@
+github commands - 
+
+
+cd 
+dir
+
+git clone urlofcode
+git status
+git add filename
+git commit -m 'add file'
+git push
+
+
+
+git pull
+git add .    or   git add -A 
+
+ESC key :wq
